@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @oliverwk
 - 👀 I’m interested in vanlia web, firebase and swiftui
-- 🌱 I’m currently learning react/nextjs
-- 💞️ I’m looking to collaborate on widgetKit and next.js
-- 📫 You can reach me via Email or Discord
+- 🌱 I’m currently learning CoreData
+- 💞️ I’m looking to collaborate on Micorsoft graph API projects
+- 📫 You can reach me via Email or Teams
 
 <!---
 oliverwk/oliverwk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

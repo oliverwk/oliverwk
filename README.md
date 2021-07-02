@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oliverwk
-- 👀 I’m interested in vanlia web, firebase and swiftui
+- 👀 I’m interested in vanilla web, firebase and swiftui
 - 🌱 I’m currently learning CoreData
-- 💞️ I’m looking to collaborate on Micorsoft graph API projects
+- 💞️ I’m looking to collaborate on the Micorsoft graph API
 - 📫 You can reach me via Email or Teams
 
 <!---

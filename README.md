@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oliverwk
 - 👀 I’m interested in vanilla web, firebase and swiftui
-- 🌱 I’m currently learning CoreData
-- 💞️ I’m looking to collaborate on the Micorsoft graph API
+- 🌱 I’m currently learning (iOS) Nearby Interaction and WatchConnectivity (WatchOS)
+- 💞️ I’m looking to collaborate on Apple Wallet NFC
 - 📫 You can reach me via Email or Teams
 
 <!---
